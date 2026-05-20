@@ -1,178 +1,83 @@
-````md
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,25:031525,50:052e16,75:064e3b,100:10b981&text=INNOCENT_GO_DEV&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULLSTACK%20ENGINEER%20•%20NEON%20SAMURAI%20•%20SYSTEMS%20BUILDER&descAlignY=58"/>
-
-</div>
+<!-- SYSTEM ARCHITECTURE: INNOCENT_GO_DEV COMPILER v4.0.26 -->
+<!-- VISUAL STYLE: NEON SAMURAI // EMERALD HACKER // DARK OS -->
 
 <div align="center">
 
-# ⚔️ INNOCENT_GO_DEV
+<!-- HERO BANNER SYSTEM -->
+<svg viewBox="0 0 1200 400" width="100%" style="background:#020617; font-family:'Segoe UI',Roboto,Helvetica,sans-serif; border-radius:16px; border: 1px solid rgba(16, 185, 129, 0.2); box-shadow: 0 20px 50px rgba(0,0,0,0.8);">
+  <!-- Background Grid Grid Matrix -->
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="rgba(16, 185, 129, 0.04)" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="neonGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#042f1a" />
+      <stop offset="50%" stop-color="#020617" />
+      <stop offset="100%" stop-color="#0f172a" />
+    </linearGradient>
+    <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#10b981" />
+      <stop offset="50%" stop-color="#34d399" />
+      <stop offset="100%" stop-color="#06b6d4" />
+    </linearGradient>
+    <linearGradient id="cyberCyan" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#06b6d4" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#06b6d4" stop-opacity="0" />
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
 
-### `Fullstack Engineer` • `Systems Thinker` • `Neon Samurai`
+  <rect width="100%" height="100%" fill="url(#neonGlow)" />
+  <rect width="100%" height="100%" fill="url(#grid)" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=10B981&center=true&vCenter=true&random=false&width=900&lines=Building+Scalable+Systems...;Designing+Modern+Applications...;Engineering+Clean+Architectures...;Linux+%2B+Backend+%2B+Frontend...;Always+Learning.+Always+Building." />
+  <!-- Animated Glowing Accents (Mocked via high-end SVG vectors) -->
+  <path d="M-100 0 L500 300 L1300 100" fill="none" stroke="#10b981" stroke-width="1" opacity="0.15" />
+  <path d="M0 400 L700 100 L1200 350" fill="none" stroke="#06b6d4" stroke-width="1" opacity="0.1" />
 
-</div>
+  <!-- Cyberpunk Neon Framing Elements -->
+  <line x1="30" y1="30" x2="150" y2="30" stroke="#10b981" stroke-width="3" filter="url(#glow)"/>
+  <line x1="30" y1="30" x2="30" y2="100" stroke="#10b981" stroke-width="3" filter="url(#glow)"/>
+  <line x1="1170" y1="370" x2="1050" y2="370" stroke="#06b6d4" stroke-width="2" />
+  <line x1="1170" y1="370" x2="1170" y2="300" stroke="#06b6d4" stroke-width="2" />
 
----
+  <!-- Technical Overlay Typography -->
+  <text x="50" y="70" fill="#10b981" font-size="12" font-family="monospace" letter-spacing="4">SYS.STATUS: ACTIVE // COHORT.NEXTGEN</text>
+  <text x="1150" y="70" fill="#64748b" font-size="12" font-family="monospace" text-anchor="end" letter-spacing="2">LOC: 050.5524° N / 007.9157° E</text>
 
-<div align="center">
+  <!-- Core Branding Profile Title -->
+  <text x="50%" y="200" fill="url(#textGradient)" font-size="64" font-weight="900" text-anchor="middle" letter-spacing="12" filter="url(#glow)">INNOCENT_GO_DEV</text>
+  <text x="50%" y="250" fill="#f8fafc" font-size="18" font-weight="400" text-anchor="middle" letter-spacing="8" opacity="0.9">SYSTEMS ARCHITECT & FULLSTACK ENGINEER</text>
 
-<img src="https://komarev.com/ghpvc/?username=EkwuemeSpace&style=for-the-badge&color=10b981"/>
+  <!-- Futuristic Interactive Terminal Interface Output Simulation -->
+  <rect x="350" y="290" width="500" height="40" rx="6" fill="#020617" stroke="rgba(16, 185, 129, 0.3)" stroke-width="1"/>
+  <circle cx="375" cy="310" r="4" fill="#ef4444" />
+  <circle cx="390" cy="310" r="4" fill="#f59e0b" />
+  <circle cx="405" cy="310" r="4" fill="#10b981" />
+  <text x="430" y="315" fill="#a7f3d0" font-size="13" font-family="monospace" letter-spacing="1">
+    pkg main | <tspan fill="#34d399">import "runtime/scalability"</tspan> _
+  </text>
+</svg>
 
-</div>
+<br>
 
----
+<!-- DYNAMIC TYPING BADGE -->
+<p align="center">
+  <a href="https://github.com/EkwuemeSpace">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&height=50&lines=%E2%9A%A1+Conquering+Distributed+Systems+in+Go;%F0%9F%92%BB+Linux+Environment+Purist;%F0%9F%9F%A2+Building+Scalable+Fullstack+Architectures;%E2%97%86+Optimizing+At+The+Compiler+Level" alt="Dynamic System Terminal Engine" />
+  </a>
+</p>
 
-# 🧠 WHO AM I?
-
-```bash
-> Fullstack Engineer
-> Linux Enthusiast
-> Backend Architecture Explorer
-> Building scalable digital systems
-> Obsessed with clean code & performance
-> Learning never stops.
-````
-
-I build modern applications with a strong focus on:
-
-* ⚡ Performance
-* 🧩 Scalability
-* 🏗️ Maintainable architecture
-* 🔒 Reliability
-* 🧠 Problem solving
-* 🚀 Developer experience
-
----
-
-# ⚔️ CURRENT MISSION
-
-<div align="center">
-
-| Focus Area                | Status        |
-| ------------------------- | ------------- |
-| Fullstack Engineering     | ⚡ Active      |
-| Backend Systems           | ⚡ Deep Focus  |
-| Linux & Terminal Workflow | ⚡ Daily       |
-| System Design             | ⚡ Growing     |
-| Clean Architecture        | ⚡ Improving   |
-| Performance Optimization  | ⚡ Researching |
-
-</div>
-
----
-
-# 🛠️ TECH ARSENAL
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=go,js,ts,nodejs,react,nextjs,linux,bash,git,github,docker,vscode,mongodb,postgres,redis&perline=5" />
-
-</div>
-
----
-
-# 🌌 NEON CORE
-
-<div align="center">
-
-```txt
-        ███████╗███╗   ███╗███████╗██████╗  █████╗ ██╗     ██████╗ 
-        ██╔════╝████╗ ████║██╔════╝██╔══██╗██╔══██╗██║     ██╔══██╗
-        █████╗  ██╔████╔██║█████╗  ██████╔╝███████║██║     ██║  ██║
-        ██╔══╝  ██║╚██╔╝██║██╔══╝  ██╔══██╗██╔══██║██║     ██║  ██║
-        ███████╗██║ ╚═╝ ██║███████╗██║  ██║██║  ██║███████╗██████╔╝
-        ╚══════╝╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═════╝ 
-```
+<!-- VISITOR COUNTER PILL -->
+<img src="https://komarev.com/ghvc/?username=EkwuemeSpace&label=SYSTEM%20ACCESSES&color=10b981&style=flat-square" alt="System Identity Access Metrics" />
 
 </div>
 
 ---
 
-# 📊 GITHUB ANALYTICS
+### 🌐 EXECUTIVE PROFILE SUMMARY
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EkwuemeSpace&show_icons=true&theme=transparent&hide_border=true&title_color=10b981&icon_color=10b981&text_color=c9d1d9"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=EkwuemeSpace&theme=black-ice&hide_border=true&stroke=10b981&ring=10b981&fire=10b981&currStreakLabel=10b981"/>
-
-</div>
-
----
-
-# 🧬 CONTRIBUTION MATRIX
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EkwuemeSpace&custom_title=INNOCENT_GO_DEV%20ACTIVITY%20GRAPH&bg_color=0d1117&color=10b981&line=10b981&point=ffffff&area=true&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/EkwuemeSpace/EkwuemeSpace/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-# 🚀 ENGINEERING PHILOSOPHY
-
-<div align="center">
-
-| Principle          | Description                |
-| ------------------ | -------------------------- |
-| ⚡ Simplicity       | Clean systems scale better |
-| 🧠 Architecture    | Structure matters          |
-| 🔥 Performance     | Fast software wins         |
-| 🛡️ Reliability    | Stability over hype        |
-| 📦 Maintainability | Future-proof code          |
-| 🌌 Curiosity       | Learn endlessly            |
-
-</div>
-
----
-
-# 🌍 CONNECT WITH ME
-
-<div align="center">
-
-<a href="https://github.com/EkwuemeSpace">
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=10b981"/>
-</a>
-
-<a href="https://www.linkedin.com/in/innocent-ekwueme-41bb44292/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:ekwuemeinnocent31@gmail.com">
-<img src="https://img.shields.io/badge/Email-10b981?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://discord.com">
-<img src="https://img.shields.io/badge/Discord-111827?style=for-the-badge&logo=discord&logoColor=10b981"/>
-</a>
-
-</div>
-
----
-
-# ⚡ FINAL TRANSMISSION
-
-<div align="center">
-
-### "Code is more than syntax.
-
-### It is architecture, logic, and imagination combined."
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:10b981,50:052e16,100:020617"/>
-
-</div>
-```
+```blockquote
+> "The elegant containment of complex logic within minimalist architectures isn't just a development principle—it's a digital philosophy. I build high-performance distributed backend architectures, unified with sleek, responsive web frontends designed to process data reliably at scale."
