@@ -32,7 +32,7 @@
 
 # About Me
 
-I am **INNOCENT_GO_DEV**, a fullstack engineer dedicated to building **scalable, resilient, and high‑performance systems**.  
+I am **INNOCENT_GO_DEV**, a fullstack engineer focused on building **scalable, resilient, and high‑performance systems**.  
 My engineering philosophy is rooted in **clean architecture**, **Linux craftsmanship**, and a relentless pursuit of **optimization**.  
 
 I specialize in **backend engineering, systems programming, and modern web applications**, transforming complex challenges into elegant, maintainable solutions.  
@@ -53,7 +53,6 @@ Every project I design is guided by principles of **clarity, scalability, and lo
 ## Tech Stack
 
 <p align="center">
-
 <a href="https://go.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=go" /></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" /></a>
 <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" /></a>
@@ -63,7 +62,6 @@ Every project I design is guided by principles of **clarity, scalability, and lo
 <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" /></a>
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgresql" /></a>
 <a href="https://redis.io/" target="_blank"><img src="https://skillicons.dev/icons?i=redis" /></a>
-
 </p>
 
 ---
@@ -71,7 +69,11 @@ Every project I design is guided by principles of **clarity, scalability, and lo
 ## Commit Tracker
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EkwuemeSpace&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=1f6feb&icon_color=58A6FF&text_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EkwuemeSpace&count_private=true&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=1f6feb&icon_color=58A6FF&text_color=ffffff" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EkwuemeSpace&layout=compact&theme=github_dark&bg_color=0d1117&title_color=1f6feb&text_color=ffffff" />
 </p>
 
 ---
