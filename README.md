@@ -1,4 +1,4 @@
-```md id="v7n3qp"
+```md
 <!-- ========================================= -->
 <!--      INNOCENT_GO_DEV PREMIUM README       -->
 <!-- ========================================= -->
@@ -129,7 +129,7 @@ I enjoy understanding systems internally, optimizing bottlenecks, improving work
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=EkwuemeSpace&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=58A6FF&text_color=ffffff&count_private=true&include_all_commits=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=EkwuemeSpace&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=EkwuemeSpace&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
 
 </div>
 
