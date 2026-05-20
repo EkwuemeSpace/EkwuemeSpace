@@ -1,177 +1,345 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:050816,30:0b1026,60:1f6feb,100:58a6ff&text=INNOCENT_GO_DEV&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Elite%20Backend%20Engineer%20%7C%20Go%20Developer%20%7C%20System%20Builder&descAlignY=58&descAlign=50"/>
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Backend+Engineer+Focused+on+Go;REST+API+Architecture+and+Systems;Linux+Environment+Developer;Scalable+Software+Builder;Clean+Architecture+Practitioner;Performance+Driven+Engineering"/>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:1a0533,100:2d1b69&height=260&section=header&text=Innocent_Go_Dev&fontSize=52&fontColor=c084fc&animation=fadeIn&fontAlignY=40&desc=Backend%20Engineer%20%7C%20Go%20Architect%20%7C%20Systems%20Craftsman&descSize=18&descAlignY=62&descColor=a78bfa"/>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=EkwuemeSpace&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/EkwuemeSpace?style=for-the-badge&logo=github&color=0b1026"/>
-<img src="https://img.shields.io/badge/FOCUS-BACKEND%20ENGINEERING-1f6feb?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PRIMARY%20LANGUAGE-GO-00ADD8?style=for-the-badge"/>
-</p>
+</div>
+
+<div align="center">
+
+<!-- Animated typing -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=C084FC&background=00000000&center=true&vCenter=true&random=false&width=900&lines=+Go+Backend+Engineer+in+the+Making;+REST+API+Architect+%7C+Systems+Thinker;+Backend+Bootcamp+Graduate+%7C+Always+Leveling+Up;+Concurrent+Systems+%7C+Clean+Architecture;+Engineering+with+Elite+Precision+%26+Purpose" />
+
+</div>
 
 ---
 
-# SYSTEM PROFILE
+<div align="center">
 
-```yaml
-name: Innocent Ekwueme
-alias: Innocent_Go_Dev
-role: Full Stack Developer
-specialization: Backend Engineering
-current_focus:
-  - REST API Development
-  - Go Backend Systems
-  - System Design
-  - Performance Optimization
-  - Clean Architecture
+<!-- Core Identity Badges -->
+<img src="https://img.shields.io/badge/LANGUAGE-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=0a0a0f"/>
+<img src="https://img.shields.io/badge/FOCUS-Backend_Engineering-7c3aed?style=for-the-badge&labelColor=0a0a0f"/>
+<img src="https://img.shields.io/badge/SPECIALTY-REST_APIs-c084fc?style=for-the-badge&labelColor=0a0a0f"/>
+<img src="https://img.shields.io/badge/STATUS-Backend_Bootcamp_Active-10b981?style=for-the-badge&labelColor=0a0a0f"/>
 
-environment:
-  - Linux
-  - Git
-  - VS Code
-  - Terminal
+</div>
 
-status:
-  training: Backend Engineering Bootcamp
-  mode: Active Development
+<br/>
+
+<div align="center">
+
+<!-- Visitor Count -->
+<img src="https://komarev.com/ghpvc/?username=inekwueme&label=PROFILE+VISITORS&color=7c3aed&style=flat-square&labelColor=0a0a0f"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/github/followers/inekwueme?label=FOLLOWERS&style=flat-square&color=c084fc&labelColor=0a0a0f"/>
+
+</div>
+
+---
+
+## Who Is Innocent_Go_Dev?
+
+```go
+package main
+
+import "fmt"
+
+type Developer struct {
+    Name        string
+    Alias       string
+    Location    string
+    Focus       []string
+    CurrentArc  string
+    Philosophy  string
+    ContactMail string
+    GitHub      string
+    LinkedIn    string
+}
+
+func main() {
+    dev := Developer{
+        Name:     "Innocent Ekwueme",
+        Alias:    "Innocent_Go_Dev",
+        Location: "Nigeria ",
+        Focus: []string{
+            "Backend Engineering",
+            "REST API Design & Development",
+            "Concurrent Systems with Go",
+            "System Architecture & Design",
+            "Performance Optimization",
+            "Clean, Maintainable Code",
+        },
+        CurrentArc:  "Backend Bootcamp — Forging Elite Engineering Skills",
+        Philosophy:  "Build systems that scale. Write code that lasts. Never stop leveling up.",
+        ContactMail: "innocentekwueme31@gmail.com",
+        GitHub:      "github.com/inekwueme",
+        LinkedIn:    "linkedin.com/in/innocent-ekwueme-41bb44292",
+    }
+
+    fmt.Printf(" %s | %s\n", dev.Name, dev.Alias)
+    fmt.Printf(" %s | Arc: %s\n", dev.Location, dev.CurrentArc)
+    fmt.Printf(" Philosophy: %s\n", dev.Philosophy)
+}
 ```
 
 ---
 
-# ENGINEERING PRINCIPLES
+## The Anime Parallel — My Developer Arc
 
-Core approach:
-- Build systems that scale under load
-- Write code that remains readable over time
-- Design APIs with clear structure and behavior
-- Reduce complexity in backend architecture
-- Optimize performance before scaling
-- Maintain strict separation of concerns
+> *"Every great engineer has their training arc. Mine is happening right now."*
 
-Engineering mindset:
-Software quality depends on structure, not speed of delivery.
+<div align="center">
 
----
+| Anime Arc | Developer Parallel |
+|:---:|:---:|
+| **Naruto — Chunin Exams** | Backend Bootcamp — proving capability under pressure |
+| **Goku — Hyperbolic Time Chamber** | Deep-diving Go internals & concurrency |
+| **Levi — Survey Corps** | Precision engineering, zero tolerance for sloppy code |
+| **Itachi — Mastery in Silence** | Building, shipping, learning — quietly getting elite |
+| **Sung Jin-Woo — System Awakening** | The moment your architecture *clicks* and scales | </div>
 
-# TECHNICAL FOCUS
-
-| Backend Systems | Engineering Skills |
-|----------------|------------------|
-| REST APIs | System Design |
-| Authentication Systems | Concurrency |
-| Database Integration | Linux Development |
-| Server Architecture | Debugging |
-| API Security | Performance Tuning |
-| Clean Architecture | CLI Tools |
+> *I don't just write code. I train. I grind. I level up. Like every protagonist worth watching.*
 
 ---
 
-# TECH STACK
+## Tech Arsenal
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=go,js,ts,nodejs,react,python,c,cpp,html,css,linux,bash,docker,git,github,postgres,mysql,vscode&perline=9"/>
-</p>
+<div align="center">
 
----
+### Primary Weapons
+<br/>
+<a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go" title="Go — Primary Language"/></a>
+&nbsp;
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" title="Git — Version Control"/></a>
+&nbsp;
+<a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" title="Linux — Primary OS"/></a>
+&nbsp;
+<a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" title="Bash — Scripting"/></a>
+&nbsp;
+<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" title="GitHub"/></a>
+&nbsp;
+<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" title="VS Code"/></a>
+&nbsp;
+<a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL"/></a>
+&nbsp;
+<a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" title="Docker — Containers"/></a>
 
-# CURRENT PROJECT
+</div>
 
-## go-lab
+<br/>
 
-Repository focused on backend engineering experiments using Go.
+<div align="center">
 
-Scope:
-- REST API implementations
-- Backend system prototypes
-- Problem-solving exercises
-- Architecture experiments
+### Core Competencies
 
-Repository:
-https://github.com/EkwuemeSpace/go-lab
-
----
-
-# DEVELOPMENT METRICS
-
-<p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=EkwuemeSpace&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=EkwuemeSpace&theme=tokyonight&hide_border=true&background=0D1117"/>
-</p>
-
-<p align="center">
-<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=EkwuemeSpace&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# CONTRIBUTION PROFILE
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
+| Domain | Skills |
+|:---|:---|
+| **REST API Development** | API design, routing, middleware, authentication, JSON handling |
+| **Go Backend** | HTTP servers, goroutines, channels, context management |
+| **Concurrency** | Parallel execution, race condition prevention, worker pools |
+| **Data Layer** | Database integration, query optimization, connection pooling |
+| **Architecture** | Clean architecture, separation of concerns, modular design |
+| **DevOps Basics** | Git workflows, Docker containerization, Linux environments | </div>
 
 ---
 
-# CURRENT LEARNING TRACK
+## Current Arc: Backend Bootcamp
 
-```text
-Backend Engineering Bootcamp:
-- REST API Architecture
-- Go Concurrency Model
-- System Design Fundamentals
-- Scalable Backend Systems
-- Performance Optimization
-- Distributed System Concepts
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║            BACKEND ENGINEERING BOOTCAMP — ACTIVE           ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  MODULE 01 ▓▓▓▓▓▓▓▓▓▓ 100%  Go Fundamentals & Idioms        ║
+║  MODULE 02 ▓▓▓▓▓▓▓▓░░  80%  REST API Design & Development   ║
+║  MODULE 03 ▓▓▓▓▓▓░░░░  65%  Concurrent Systems              ║
+║  MODULE 04 ▓▓▓▓░░░░░░  45%  Database Design & Integration   ║
+║  MODULE 05 ▓▓▓░░░░░░░  30%  System Architecture Patterns    ║
+║  MODULE 06 ▓▓░░░░░░░░  20%  Deployment & DevOps Basics      ║
+║                                                              ║
+║   CURRENT FOCUS: REST APIs + Concurrency Deep Dive        ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## GitHub Intelligence — Elite Analysis
+
+<div align="center">
+
+<!-- GitHub Stats -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=inekwueme&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0a0f&title_color=c084fc&icon_color=7c3aed&text_color=a78bfa&ring_color=7c3aed"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inekwueme&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=c084fc&text_color=a78bfa&langs_count=8"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<!-- Contribution Streak -->
+<img src="https://streak-stats.demolab.com?user=inekwueme&theme=tokyonight&hide_border=true&background=0a0a0f&stroke=7c3aed&ring=c084fc&fire=f59e0b&currStreakLabel=c084fc&sideLabels=a78bfa&dates=6b7280&currStreakNum=ffffff&sideNums=ffffff&date_format=M%20j%5B,%20Y%5D" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<!-- Activity Graph -->
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=inekwueme&theme=tokyo-night&bg_color=0a0a0f&color=c084fc&line=7c3aed&point=f59e0b&area=true&hide_border=true"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<!-- Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=inekwueme&theme=algolia&no-frame=true&column=6&margin-w=8&margin-h=8"/>
+
+</div>
+
+---
+
+## What I'm Building Right Now
+
+```go
+// Current project structure — REST API with Go
+innocent_go_dev/
+├── cmd/
+│   └── server/         # Application entrypoint
+│       └── main.go
+├── internal/
+│   ├── api/            # REST API handlers & routes
+│   │   ├── handlers/
+│   │   ├── middleware/
+│   │   └── router.go
+│   ├── service/        # Business logic layer
+│   ├── repository/     # Database access layer
+│   └── models/         # Domain models & DTOs
+├── pkg/
+│   ├── database/       # DB connection & pooling
+│   ├── logger/         # Structured logging
+│   └── validator/      # Input validation
+├── config/             # Environment configuration
+├── docker-compose.yml
+└── README.md
+```
+
+> *Clean architecture isn't optional — it's the standard.*
+
+---
+
+## The Learning Grind — What's on the Board
+
+<div align="center">
+
+| Topic | Level | Priority |
+|:---|:---:|:---:|
+| Go REST API with `net/http` | ████████░░ Advancing | Critical |
+| Goroutines & Channel Patterns | ███████░░░ Intermediate | Critical |
+| JWT Authentication in Go | ██████░░░░ Building | 🟠 High |
+| PostgreSQL + `pgx` Driver | ██████░░░░ Building | 🟠 High |
+| Docker & Containerization | █████░░░░░ Exploring | 🟡 Medium |
+| Advanced Algorithms (DSA) | ████░░░░░░ Practicing | 🟡 Medium |
+| Microservices with Go | ███░░░░░░░ Researching | 🟢 Soon |
+| gRPC & Protocol Buffers | ██░░░░░░░░ Queued | 🟢 Upcoming | </div>
+
+---
+
+## Engineering Philosophy
+
+<div align="center">
+
+> *"An elite engineer doesn't just make things work — they make things **right**."*
+
+</div>
+
+```
+PRINCIPLE 01 — SIMPLICITY IS MASTERY
+        The best code does one thing, does it well, and is obvious to the next reader.
+        Complexity is a debt you'll pay later.
+
+PRINCIPLE 02 — SYSTEMS THINK, NOT JUST CODE
+        Every function is part of something larger. Always engineer
+        with the full system — latency, load, failure modes — in mind.
+
+PRINCIPLE 03 — CONCURRENCY IS A SUPERPOWER, NOT A SHORTCUT
+        Go's goroutines are a gift. Use them deliberately,
+        safely, and with full understanding of what you're building.
+
+PRINCIPLE 04 — REST IS NOT JUST HTTP
+        A well-designed API is a contract. Version it. Document it.
+        Respect it. It will outlive the code that implements it.
+
+PRINCIPLE 05 — NEVER STOP BEING A STUDENT
+        Every codebase teaches. Every bug is a lesson. Every PR
+        review is a gift. The day you stop learning is the day
+        you start falling behind.
 ```
 
 ---
 
-# WORKFLOW MODEL
+## Connect & Collaborate
 
-```text
-REQUIREMENT
-  ↓
-ARCHITECTURE DESIGN
-  ↓
-IMPLEMENTATION
-  ↓
-TESTING
-  ↓
-DEBUGGING
-  ↓
-OPTIMIZATION
-  ↓
-DEPLOYMENT
+<div align="center">
+
+<a href="https://github.com/inekwueme">
+  <img src="https://img.shields.io/badge/GitHub-inekwueme-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0f"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/innocent-ekwueme-41bb44292/">
+  <img src="https://img.shields.io/badge/LinkedIn-Innocent_Ekwueme-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0f"/>
+</a>
+&nbsp;
+<a href="mailto:innocentekwueme31@gmail.com">
+  <img src="https://img.shields.io/badge/Email-innocentekwueme31@gmail.com-c084fc?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0f"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+> *Open to backend collaborations, Go projects, API development, and brainstorming sessions.*
+> *If you're building something meaningful — reach out.*
+
+</div>
+
+---
+
+## Final Words
+
+<div align="center">
+
+```
+There's a version of you that ships clean APIs at scale,
+architects systems that don't break under pressure,
+and writes Go code that reads like poetry.
+
+That version isn't born — it's built.
+One commit at a time.
+
+I'm building mine.
 ```
 
----
+*— Innocent_Go_Dev, still in the training arc *
 
-# ENVIRONMENT CONFIGURATION
-
-```yaml
-os: Linux
-editor: VS Code
-version_control: Git + GitHub
-primary_language: Go
-architecture: Clean Modular Design
-focus: Backend Systems Engineering
-```
+</div>
 
 ---
 
-# CONNECT
+<div align="center">
 
-Email: innocentekwueme31@gmail.com  
-LinkedIn: https://www.linkedin.com/in/innocent-ekwueme-41bb44292/  
-Discord: inekwueme  
-GitHub: https://github.com/EkwuemeSpace  
+<img src="https://img.shields.io/badge/Made%20with-Go%20%26%20Grit-c084fc?style=for-the-badge&logo=go&logoColor=white&labelColor=0a0a0f"/>
+<img src="https://img.shields.io/badge/Powered%20by-Anime%20%26%20Algorithms-7c3aed?style=for-the-badge&labelColor=0a0a0f"/>
+<img src="https://img.shields.io/badge/Status-Building%20Greatness-10b981?style=for-the-badge&labelColor=0a0a0f"/>
 
----
+</div>
 
-# ENGINEERING STATEMENT
-
-Software quality is defined by structure, clarity, and maintainability.  
-Performance follows architecture.  
-Scalability follows discipline.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b69,50:1a0533,100:0a0a0f&height=140&section=footer&text=Code.%20Learn.%20Level%20Up.&fontSize=24&fontColor=c084fc&animation=fadeIn&fontAlignY=65"/>
