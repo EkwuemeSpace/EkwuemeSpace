@@ -1,163 +1,178 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:1a0533,100:2d1b69&height=220&section=header&text=INNOCENT&fontSize=45&fontColor=c084fc&animation=fadeIn&fontAlignY=38"/>
+````md
+<div align="center">
 
-<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,25:031525,50:052e16,75:064e3b,100:10b981&text=INNOCENT_GO_DEV&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULLSTACK%20ENGINEER%20•%20NEON%20SAMURAI%20•%20SYSTEMS%20BUILDER&descAlignY=58"/>
 
-  <a href="https://go.dev/doc/" target="_blank">
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  </a>
+</div>
 
-  <a href="https://en.wikipedia.org/wiki/Back_end_development" target="_blank">
-    <img src="https://img.shields.io/badge/Backend-7c3aed?style=for-the-badge"/>
-  </a>
+<div align="center">
 
-  <a href="https://en.wikipedia.org/wiki/Systems_programming" target="_blank">
-    <img src="https://img.shields.io/badge/Systems-c084fc?style=for-the-badge"/>
-  </a>
+# ⚔️ INNOCENT_GO_DEV
 
-</p>
+### `Fullstack Engineer` • `Systems Thinker` • `Neon Samurai`
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=C084FC&center=true&vCenter=true&random=false&width=800&lines=Go+Backend+Engineer+in+the+Making;REST+API+Architect+%7C+Systems+Thinker;Concurrent+Systems+%7C+Clean+Architecture;Backend+Bootcamp+%E2%80%94+Forging+Elite+Skills;One+commit+at+a+time." />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=10B981&center=true&vCenter=true&random=false&width=900&lines=Building+Scalable+Systems...;Designing+Modern+Applications...;Engineering+Clean+Architectures...;Linux+%2B+Backend+%2B+Frontend...;Always+Learning.+Always+Building." />
 
-<p align="center">
-  <a href="https://github.com/inekwueme">
-    <img src="https://komarev.com/ghpvc/?username=inekwueme&label=VISITORS&color=7c3aed&style=flat-square" />
-  </a>
-</p>
+</div>
 
 ---
 
-# 👋 About Me
+<div align="center">
 
-I'm a Go backend engineer passionate about building efficient, scalable, and maintainable software systems.
+<img src="https://komarev.com/ghpvc/?username=EkwuemeSpace&style=for-the-badge&color=10b981"/>
 
-My interests are centered around backend engineering, REST API design, concurrent systems, and clean architecture. I enjoy solving complex technical problems, understanding how systems work under the hood, and continuously pushing the quality and performance of everything I build.
-
-Currently focused on strengthening my expertise in:
-- Backend development with Go
-- REST API design and development
-- Concurrent programming and goroutine patterns
-- System design and clean architecture
-- Performance optimization
-- Production-grade, maintainable code
+</div>
 
 ---
 
-## 🚀 Current Focus
+# 🧠 WHO AM I?
 
-- Building practical REST APIs with Go
-- Exploring concurrency — goroutines, channels, worker pools
-- Deepening knowledge of system architecture patterns
-- Writing table-driven tests and robust error handling
-- Mastering idiomatic Go conventions
-- Developing professional-grade backend applications
+```bash
+> Fullstack Engineer
+> Linux Enthusiast
+> Backend Architecture Explorer
+> Building scalable digital systems
+> Obsessed with clean code & performance
+> Learning never stops.
+````
 
----
+I build modern applications with a strong focus on:
 
-## 🛠️ Tech Stack
-
-<p align="center">
-
-<a href="https://go.dev/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=go" />
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=git" />
-</a>
-
-<a href="https://www.linux.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linux" />
-</a>
-
-<a href="https://code.visualstudio.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=vscode" />
-</a>
-
-<a href="https://github.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="https://www.gnu.org/software/bash/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=bash" />
-</a>
-
-<a href="https://www.postgresql.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=postgres" />
-</a>
-
-<a href="https://www.docker.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=docker" />
-</a>
-
-</p>
+* ⚡ Performance
+* 🧩 Scalability
+* 🏗️ Maintainable architecture
+* 🔒 Reliability
+* 🧠 Problem solving
+* 🚀 Developer experience
 
 ---
 
-## 🏆 Achievements
+# ⚔️ CURRENT MISSION
 
-<p align="center">
-  <a href="https://github.com/inekwueme?tab=repositories">
-    <img src="https://github-profile-trophy.vercel.app/?username=inekwueme&theme=algolia&no-frame=true&column=6" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/inekwueme?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Projects-Click%20Here-7c3aed?style=for-the-badge"/>
-  </a>
-</p>
+| Focus Area                | Status        |
+| ------------------------- | ------------- |
+| Fullstack Engineering     | ⚡ Active      |
+| Backend Systems           | ⚡ Deep Focus  |
+| Linux & Terminal Workflow | ⚡ Daily       |
+| System Design             | ⚡ Growing     |
+| Clean Architecture        | ⚡ Improving   |
+| Performance Optimization  | ⚡ Researching |
 
-## 🔥 Contribution Streak
-
-<p align="center">
-  <a href="https://github.com/inekwueme" target="_blank">
-    <img src="https://streak-stats.demolab.com?user=inekwueme&theme=tokyonight&hide_border=true&background=0a0a0f&stroke=7c3aed&ring=c084fc&fire=f59e0b&currStreakLabel=c084fc&sideLabels=a78bfa&dates=6b7280&currStreakNum=ffffff&sideNums=ffffff&date_format=M%20j%5B,%20Y%5D" />
-  </a>
-</p>
+</div>
 
 ---
 
-## 📊 Activity Graph
+# 🛠️ TECH ARSENAL
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=inekwueme&theme=tokyo-night&bg_color=0a0a0f&color=c084fc&line=7c3aed&point=f59e0b&area=true&hide_border=true"/>
+<div align="center">
 
-## 📚 Currently Learning
+<img src="https://skillicons.dev/icons?i=go,js,ts,nodejs,react,nextjs,linux,bash,git,github,docker,vscode,mongodb,postgres,redis&perline=5" />
 
-- Concurrent system design with goroutines and channels
-- REST API architecture and middleware patterns
-- Performance optimization in Go
-- Advanced algorithms and data structures
-- PostgreSQL integration with Go (`pgx` driver)
-- JWT authentication and secure API design
+</div>
 
 ---
 
-## 🌐 Connect With Me
+# 🌌 NEON CORE
 
-<p align="center">
-  <a href="https://github.com/inekwueme">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<div align="center">
 
-  <a href="https://www.linkedin.com/in/innocent-ekwueme-41bb44292/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+```txt
+        ███████╗███╗   ███╗███████╗██████╗  █████╗ ██╗     ██████╗ 
+        ██╔════╝████╗ ████║██╔════╝██╔══██╗██╔══██╗██║     ██╔══██╗
+        █████╗  ██╔████╔██║█████╗  ██████╔╝███████║██║     ██║  ██║
+        ██╔══╝  ██║╚██╔╝██║██╔══╝  ██╔══██╗██╔══██║██║     ██║  ██║
+        ███████╗██║ ╚═╝ ██║███████╗██║  ██║██║  ██║███████╗██████╔╝
+        ╚══════╝╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═════╝ 
+```
 
-  <a href="mailto:innocentekwueme31@gmail.com">
-    <img src="https://img.shields.io/badge/Email-7c3aed?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## ⚡ Fun Fact
-
-I train like an anime protagonist — deep focus, deliberate practice, and zero tolerance for sloppy code. Every project is a level-up. Every bug is a lesson. The arc never ends.
+</div>
 
 ---
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b69,50:1a0533,100:0a0a0f&height=120&section=footer&text=Code.%20Learn.%20Level%20Up.&fontSize=20&fontColor=c084fc&animation=fadeIn&fontAlignY=65"/>
-</p>
+# 📊 GITHUB ANALYTICS
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EkwuemeSpace&show_icons=true&theme=transparent&hide_border=true&title_color=10b981&icon_color=10b981&text_color=c9d1d9"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=EkwuemeSpace&theme=black-ice&hide_border=true&stroke=10b981&ring=10b981&fire=10b981&currStreakLabel=10b981"/>
+
+</div>
+
+---
+
+# 🧬 CONTRIBUTION MATRIX
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EkwuemeSpace&custom_title=INNOCENT_GO_DEV%20ACTIVITY%20GRAPH&bg_color=0d1117&color=10b981&line=10b981&point=ffffff&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/EkwuemeSpace/EkwuemeSpace/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🚀 ENGINEERING PHILOSOPHY
+
+<div align="center">
+
+| Principle          | Description                |
+| ------------------ | -------------------------- |
+| ⚡ Simplicity       | Clean systems scale better |
+| 🧠 Architecture    | Structure matters          |
+| 🔥 Performance     | Fast software wins         |
+| 🛡️ Reliability    | Stability over hype        |
+| 📦 Maintainability | Future-proof code          |
+| 🌌 Curiosity       | Learn endlessly            |
+
+</div>
+
+---
+
+# 🌍 CONNECT WITH ME
+
+<div align="center">
+
+<a href="https://github.com/EkwuemeSpace">
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=10b981"/>
+</a>
+
+<a href="https://www.linkedin.com/in/innocent-ekwueme-41bb44292/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:ekwuemeinnocent31@gmail.com">
+<img src="https://img.shields.io/badge/Email-10b981?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://discord.com">
+<img src="https://img.shields.io/badge/Discord-111827?style=for-the-badge&logo=discord&logoColor=10b981"/>
+</a>
+
+</div>
+
+---
+
+# ⚡ FINAL TRANSMISSION
+
+<div align="center">
+
+### "Code is more than syntax.
+
+### It is architecture, logic, and imagination combined."
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:10b981,50:052e16,100:020617"/>
+
+</div>
+```
