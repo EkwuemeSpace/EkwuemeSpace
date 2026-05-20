@@ -1,241 +1,144 @@
-````md id="m4x9k2"
-<!-- ========================================= -->
-<!--        INNOCENT_GO_DEV README             -->
-<!-- ========================================= -->
+<!-- Futuristic Cyberpunk GitHub Profile README for INNOCENT_GO_DEV -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:111827,50:1f2937,75:1f6feb,100:58a6ff&height=260&section=header&text=INNOCENT_GO_DEV&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULLSTACK%20ENGINEER%20•%20SYSTEMS%20BUILDER%20•%20NEON%20SAMURAI&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=220&section=header&text=INNOCENT_GO_DEV&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<div align="center">
+<p align="center">
 
-# ⚔️ INNOCENT_GO_DEV
+  <a href="https://go.dev/doc/" target="_blank">
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  </a>
 
-### `Fullstack Engineer` • `Backend Systems Builder` • `Linux Workflow Enthusiast`
+  <a href="https://en.wikipedia.org/wiki/Back_end_development" target="_blank">
+    <img src="https://img.shields.io/badge/Backend-1f6feb?style=for-the-badge"/>
+  </a>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=900&lines=Building+Scalable+Applications...;Engineering+Modern+Systems...;Linux+%2B+Backend+%2B+Frontend...;Performance+Optimization+Mindset...;Always+Learning.+Always+Building." />
+  <a href="https://en.wikipedia.org/wiki/Systems_programming" target="_blank">
+    <img src="https://img.shields.io/badge/Systems-0ea5e9?style=for-the-badge"/>
+  </a>
 
-<br>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=EkwuemeSpace&label=PROFILE+VIEWS&color=1f6feb&style=for-the-badge"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=Fullstack+Engineer;Backend+Systems+Architect;Building+Scalable+Applications;Linux+%26+Clean+Architecture;Performance+Optimization+Mindset" />
+</p>
 
-</div>
-
----
-
-# 👨‍💻 ENGINEER PROFILE
-
-```bash
-┌──(innocent㉿neon-samurai)-[~/system/core]
-└─$ whoami
-
-Fullstack Engineer
-Backend Systems Builder
-Linux Workflow Enthusiast
-Scalable Architecture Learner
-Performance Optimization Explorer
-````
-
-I build modern software systems focused on:
-
-* ⚡ scalability
-* 🧠 maintainable architecture
-* 🔥 performance optimization
-* 🛡️ reliability
-* 🚀 modern application engineering
-
-My engineering mindset revolves around:
-
-* backend precision
-* scalable infrastructure
-* clean architecture
-* Linux-powered workflows
-* continuous technical evolution
-
-I enjoy understanding how systems work internally, solving complex technical problems, optimizing performance bottlenecks, and building applications that are production-ready.
-
-Currently exploring deeper into:
-
-* distributed systems
-* concurrent programming
-* scalable backend infrastructure
-* fullstack application architecture
-* modern engineering workflows
-* system design principles
+<p align="center">
+  <a href="https://github.com/EkwuemeSpace">
+    <img src="https://komarev.com/ghpvc/?username=EkwuemeSpace&label=VISITORS&color=1f6feb&style=flat-square" />
+  </a>
+</p>
 
 ---
 
-# ⚡ ENGINEERING PRINCIPLES
+# 👋 About Me
 
-<div align="center">
+I am **INNOCENT_GO_DEV**, a fullstack engineer driven by the pursuit of **scalable, resilient, and high‑performance systems**.  
+My work is defined by **clean architecture**, **Linux craftsmanship**, and a relentless focus on **optimization**.  
 
-| Principle       | Philosophy                          |
-| --------------- | ----------------------------------- |
-| ⚔️ Scalability  | Build systems designed for growth   |
-| ⚡ Performance   | Optimize what truly matters         |
-| 🧠 Architecture | Strong foundations create longevity |
-| 🔥 Consistency  | Small improvements compound daily   |
-| 🛡️ Reliability | Stable systems build trust          |
-| 🌌 Curiosity    | Learning never stops                |
-
-</div>
+I thrive at the intersection of **backend engineering**, **systems programming**, and **modern web applications** — transforming complex problems into elegant, maintainable solutions.  
+Every project I build is designed with **longevity, scalability, and clarity** in mind, ensuring that codebases remain robust as they evolve.
 
 ---
 
-# 🚀 CURRENT OPERATIONS
+## 🚀 Current Focus
 
-<div align="center">
-
-| Mission                          | Status        |
-| -------------------------------- | ------------- |
-| Backend Systems Engineering      | ⚡ ACTIVE      |
-| Fullstack Development            | ⚡ ACTIVE      |
-| Linux Environment Optimization   | ⚡ DAILY       |
-| System Design Learning           | ⚡ EVOLVING    |
-| Clean Architecture Patterns      | ⚡ REFINING    |
-| Scalable Infrastructure Research | ⚡ IN PROGRESS |
-
-</div>
+- Architecting production‑grade systems with Go & Node.js  
+- Exploring concurrency, distributed systems, and microservices  
+- Designing scalable infrastructures with Docker, Redis, PostgreSQL  
+- Writing optimized, maintainable, and professional‑grade code  
+- Building modern web applications with React + Next.js  
 
 ---
 
-# 🛠️ TECH ARSENAL
+## 🛠️ Tech Stack
 
-<div align="center">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=go,js,ts,nodejs,react,nextjs,linux,bash,docker,git,github,postgres,redis,mongodb,vscode&perline=5"/>
+<a href="https://go.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=go" /></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" /></a>
+<a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" /></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" /></a>
+<a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash" /></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" /></a>
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgresql" /></a>
+<a href="https://redis.io/" target="_blank"><img src="https://skillicons.dev/icons?i=redis" /></a>
 
-</div>
-
----
-
-# 📈 DEVELOPMENT METRICS
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EkwuemeSpace&show_icons=true&theme=transparent&hide_border=true&title_color=1f6feb&icon_color=58a6ff&text_color=c9d1d9&bg_color=00000000"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=EkwuemeSpace&theme=transparent&hide_border=true&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff"/>
-
-</div>
+</p>
 
 ---
 
-# 📊 ADVANCED GITHUB ANALYTICS
+## 📈 Commit Tracker
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EkwuemeSpace&layout=compact&theme=transparent&hide_border=true&title_color=1f6feb&text_color=c9d1d9"/>
-
-<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=EkwuemeSpace&limit=5&theme=transparent&combine_all_yearly_contributions=true"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EkwuemeSpace&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=1f6feb&icon_color=58A6FF&text_color=ffffff" />
+</p>
 
 ---
 
-# 🏆 ENGINEERING ACHIEVEMENTS
+## 👥 Contributors Tracker
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=EkwuemeSpace&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
-# 🛰️ LIVE DEVELOPMENT TRACKERS
-
-<div align="center">
-
-<img src="https://img.shields.io/github/commit-activity/m/EkwuemeSpace/EkwuemeSpace?style=for-the-badge&color=1f6feb"/>
-
-<img src="https://img.shields.io/github/last-commit/EkwuemeSpace/EkwuemeSpace?style=for-the-badge&color=1f6feb"/>
-
-<img src="https://img.shields.io/github/followers/EkwuemeSpace?style=for-the-badge&color=1f6feb"/>
-
-<img src="https://img.shields.io/github/stars/EkwuemeSpace?style=for-the-badge&color=1f6feb"/>
-
-</div>
+<p align="center">
+  <a href="https://github.com/EkwuemeSpace?tab=contributors">
+    <img src="https://contrib.rocks/image?repo=EkwuemeSpace/EkwuemeSpace" />
+  </a>
+</p>
 
 ---
 
-# 🔥 CONTRIBUTION MATRIX
+## 🏆 Achievements
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EkwuemeSpace&bg_color=0d1117&color=1f6feb&line=58a6ff&point=ffffff&area=true&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/EkwuemeSpace/EkwuemeSpace/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
+<p align="center">
+  <a href="https://github.com/EkwuemeSpace?tab=repositories">
+    <img src="https://github-profile-trophy.vercel.app/?username=EkwuemeSpace&theme=algolia&no-frame=true&column=6" />
+  </a>
+</p>
 
 ---
 
-# 🌌 TERMINAL LIFESTYLE
+## 🔥 Contribution Streak
 
-```bash
-> OS: Linux
-> Editor: VS Code
-> Shell: Bash
-> Architecture Mindset: Clean & Scalable
-> Learning Mode: Continuous
-> Mission: Engineer systems that matter
-```
+<p align="center">
+  <a href="https://github.com/EkwuemeSpace" target="_blank">
+    <img src="https://streak-stats.demolab.com?user=EkwuemeSpace&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B,%20Y%5D" />
+  </a>
+</p>
 
 ---
 
-# 📚 CURRENTLY LEARNING
+## 📊 Activity Graph
 
-* Advanced backend architecture
-* Concurrent system design
-* Scalable infrastructure engineering
-* Performance optimization strategies
-* Clean architecture methodologies
-* Distributed application systems
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EkwuemeSpace&theme=github-dark"/>
 
 ---
 
-# 🌍 CONNECT WITH ME
+## 📚 Currently Learning
 
-<div align="center">
-
-<a href="https://github.com/EkwuemeSpace">
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:ekwuemeinnocent31@gmail.com">
-<img src="https://img.shields.io/badge/Email-1f6feb?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/innocent-ekwueme-41bb44292/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://discord.com/users/inekwueme">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-
-</div>
+- Advanced Go concurrency patterns  
+- Backend architecture & distributed systems  
+- Performance optimization in large‑scale apps  
+- Scalable application development  
+- Software engineering best practices  
 
 ---
 
-# ⚡ FINAL TRANSMISSION
+## 🌐 Connect With Me
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/EkwuemeSpace"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:ekwuemeinnocent31@gmail.com"><img src="https://img.shields.io/badge/Email-1f6feb?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/innocent-ekwueme-41bb44292/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://discord.com/users/inekwueme"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+</p>
 
-### "Great systems are not built accidentally.
+---
 
-### They are engineered with precision."
+## ⚡ Fun Fact
 
-<br>
+I thrive in the **terminal lifestyle**, enjoy building systems from scratch, and continuously push myself to become a better engineer every day.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:111827,100:0d1117&height=140&section=footer"/>
+---
 
-</div>
-```
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=120&section=footer"/>
+</p>
