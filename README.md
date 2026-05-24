@@ -32,7 +32,7 @@
 
 # About Me
 
-I am **INNOCENT_GO_DEV**, a fullstack engineer dedicated to building **scalable, resilient, and high‑performance systems**.  
+I am **INNOCENT EKWUEME**, a fullstack engineer dedicated to building **scalable, resilient, and high‑performance systems**.  
 My philosophy is rooted in **clean architecture**, **Linux craftsmanship**, and a relentless pursuit of **optimization**.  
 
 I specialize in **backend engineering, systems programming, and modern web applications**, transforming complex challenges into elegant, maintainable solutions.  
