@@ -1,149 +1,209 @@
-<!-- Premium GitHub Profile README for INNOCENT_GO_DEV -->
+<!-- GitHub Profile README | Innocent Ekwueme -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=220&section=header&text=INNOCENT&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<div align="center">
 
-<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:102A43,100:007ACC&height=220&section=header&text=INNOCENT%20EKWUEME&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20AI%20%26%20DATA%20SCIENCE&descAlignY=58&descSize=15&animation=fadeIn"/>
 
-  <a href="https://go.dev/doc/" target="_blank">
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  </a>
+# Building Today. Engineering Intelligence for Tomorrow.
 
-  <a href="https://en.wikipedia.org/wiki/Back_end_development" target="_blank">
-    <img src="https://img.shields.io/badge/Backend-1f6feb?style=for-the-badge"/>
-  </a>
+**Aspiring AI Engineer · Full-Stack Developer in Training · Data Science Practitioner**
 
-  <a href="https://en.wikipedia.org/wiki/Systems_programming" target="_blank">
-    <img src="https://img.shields.io/badge/Systems-0ea5e9?style=for-the-badge"/>
-  </a>
+I am on a continuous learning journey focused on building useful software, understanding data, and applying artificial intelligence to real-world problems.
 
-</p>
+<a href="https://github.com/EkwuemeSpace">
+  <img src="https://img.shields.io/badge/GitHub-EkwuemeSpace-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+<a href="https://learn2earn.ng/">
+  <img src="https://img.shields.io/badge/Learning-Learn2Earn-2563EB?style=for-the-badge" alt="Learn2Earn"/>
+</a>
+<a href="https://dataraflow.org/">
+  <img src="https://img.shields.io/badge/Experience-DataraFlow-0F766E?style=for-the-badge" alt="DataraFlow"/>
+</a>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=Fullstack+Engineer;Backend+Systems+Architect;Scalable+Application+Builder;Linux+%26+Clean+Architecture;Performance+Optimization+Mindset" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/EkwuemeSpace">
-    <img src="https://komarev.com/ghpvc/?username=EkwuemeSpace&label=VISITORS&color=1f6feb&style=flat-square" />
-  </a>
-</p>
+</div>
 
 ---
 
-# About Me
+## About Me
 
-I am **INNOCENT EKWUEME**, a fullstack engineer dedicated to building **scalable, resilient, and high‑performance systems**.  
-My philosophy is rooted in **clean architecture**, **Linux craftsmanship**, and a relentless pursuit of **optimization**.  
+Hello, I'm **Innocent Ekwueme** — a developer in training with a growing interest in artificial intelligence, data science, and practical software engineering.
 
-I specialize in **backend engineering, systems programming, and modern web applications**, transforming complex challenges into elegant, maintainable solutions.  
-Every project I design is guided by principles of **clarity, scalability, and longevity**, ensuring that systems remain robust as they evolve.
+I believe technology is most valuable when it solves real problems. My goal is to develop the skills required to design, build, test, and deploy useful applications while progressively specializing in AI engineering.
+
+I am currently developing my technical foundation through the **Learn2Earn programme** and expanding my understanding of data science and applied AI through my **DataraFlow journey**.
+
+Rather than focusing only on writing code, I am learning to understand the problem, work with data, choose appropriate tools, build maintainable solutions, and communicate the results clearly.
+
+**My long-term direction is AI engineering, supported by strong software engineering fundamentals.**
+
+## What I'm Working Toward
+
+- **AI Engineering:** Building a foundation in machine learning, AI applications, and intelligent automation.
+- **Full-Stack Development:** Learning to build complete applications, from backend logic and APIs to user-facing interfaces.
+- **Data Science:** Using Python, data analysis, visualization, and machine learning to extract useful insights.
+- **Backend Engineering:** Practicing Go, application structure, APIs, databases, and maintainable code.
+- **Research & Problem Solving:** Exploring how data and machine learning can help address real-world challenges, particularly in education.
 
 ---
 
-## Current Focus
+## Technical Toolkit
 
-- Architecting production‑grade systems with Go and Node.js  
-- Exploring concurrency, distributed systems, and microservices  
-- Designing scalable infrastructures with Docker, Redis, PostgreSQL  
-- Writing optimized, maintainable, and professional‑grade code  
-- Building modern web applications with React and Next.js  
+These are the technologies I use, explore, or am developing skills in. My proficiency varies by technology as I progress through my training.
 
----
+### Programming Languages
 
-## Tech Stack
-
-<p align="center">
-<a href="https://go.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=go" /></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" /></a>
-<a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" /></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" /></a>
-<a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash" /></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" /></a>
-<a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgresql" /></a>
-<a href="https://redis.io/" target="_blank"><img src="https://skillicons.dev/icons?i=redis" /></a>
+<p>
+  <img src="https://skillicons.dev/icons?i=go,python,js,html,css" alt="Go, Python, JavaScript, HTML and CSS"/>
 </p>
 
----
+### Data Science & AI
 
-## Commit Tracker
-
-<p align="center">
-  <!-- Overall stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=EkwuemeSpace&count_private=true&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=1f6feb&icon_color=58A6FF&text_color=ffffff" />
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
 </p>
 
-<p align="center">
-  <!-- Top languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EkwuemeSpace&layout=compact&theme=github_dark&bg_color=0d1117&title_color=1f6feb&text_color=ffffff" />
+### Development Tools & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,docker,postgres,sqlite,nodejs,react" alt="Git, GitHub, VS Code, Linux, Bash, Docker, PostgreSQL, SQLite, Node.js and React"/>
 </p>
 
----
-
-## Contributors Tracker
-
-<p align="center">
-  <!-- Replace 'your-project-repo' with a repo that has contributors -->
-  <a href="https://github.com/EkwuemeSpace/your-project-repo">
-    <img src="https://contrib.rocks/image?repo=EkwuemeSpace/your-project-repo" />
-  </a>
-</p>
+**Areas I'm developing:** data preparation, exploratory data analysis, visualization, machine learning fundamentals, backend development, API design, SQL, version control, and software testing.
 
 ---
 
-## Achievements
+## Featured Projects & Learning
 
-<p align="center">
-  <a href="https://github.com/EkwuemeSpace?tab=repositories">
-    <img src="https://github-profile-trophy.vercel.app/?username=EkwuemeSpace&theme=algolia&no-frame=true&column=6" />
-  </a>
-</p>
+My repositories document my progress through practical exercises, experiments, and increasingly ambitious projects.
+
+### Go Development
+
+Exploring Go through hands-on programming exercises and application development, with an emphasis on readable code, problem-solving, testing, and backend fundamentals.
+
+### Data Science & AI
+
+Building practical experience with Python, data analysis, notebooks, visualization, and machine learning concepts as I work toward AI engineering.
+
+### DataraFlow Research Journey
+
+Developing my research and analytical skills through the DataraFlow data science accelerator.
+
+**Research direction:** Exploring whether digital access and socio-demographic factors can help predict academic attrition risk among Nigerian secondary-school students.
+
+This is a proposed research direction, subject to dataset selection, data availability, and validation.
+
+### Personal Projects
+
+I am interested in building practical tools that connect software engineering with productivity, automation, and intelligent applications.
+
+<div align="center">
+
+<a href="https://github.com/EkwuemeSpace?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories"/>
+</a>
+
+</div>
 
 ---
 
-## Contribution Streak
+## GitHub Activity
 
-<p align="center">
-  <a href="https://github.com/EkwuemeSpace" target="_blank">
-    <img src="https://streak-stats.demolab.com?user=EkwuemeSpace&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B,%20Y%5D" />
-  </a>
-</p>
+<div align="center">
 
----
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=EkwuemeSpace&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
 
-## Activity Graph
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EkwuemeSpace&layout=compact&theme=github_dark&hide_border=true" alt="Most used programming languages"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EkwuemeSpace&theme=github-dark"/>
+<img width="95%" src="https://streak-stats.demolab.com?user=EkwuemeSpace&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=EkwuemeSpace&theme=github-compact&hide_border=true" alt="GitHub contribution activity graph"/>
+
+</div>
 
 ---
 
 ## Currently Learning
 
-- Advanced Go concurrency patterns  
-- Backend architecture and distributed systems  
-- Performance optimization in large‑scale applications  
-- Scalable application development  
-- Software engineering best practices  
+- Strengthening my Go and Python programming fundamentals.
+- Building and testing practical software applications.
+- Improving my understanding of data structures, algorithms, and clean code.
+- Working with datasets using Python's data science ecosystem.
+- Learning machine learning workflows and model evaluation.
+- Exploring APIs, databases, backend architecture, and AI-powered applications.
+- Practicing Git, GitHub, documentation, and collaborative development.
+
+My approach is simple: **learn the concept, apply it in code, build something useful, and document what I discover.**
 
 ---
 
-## Connect With Me
+## Learning & Professional Development
 
-<p align="center">
-  <a href="https://github.com/EkwuemeSpace"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:ekwuemeinnocent31@gmail.com"><img src="https://img.shields.io/badge/Email-1f6feb?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/innocent-ekwueme-41bb44292/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://discord.com/users/inekwueme"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-</p>
+**Learn2Earn — Software Engineering**
+
+Developing practical software engineering skills through structured training, hands-on projects, and continuous practice.
+
+Website: https://learn2earn.ng/
+
+**DataraFlow — Data Science & AI**
+
+Developing my data science, research, and analytical skills through an applied learning journey.
+
+Website: https://dataraflow.org/
+
+These experiences contribute to my broader goal of becoming an engineer who can build complete software solutions and apply AI where it adds genuine value.
 
 ---
 
-# Closing Note
+## Beyond the Code
 
-I thrive in the **terminal lifestyle**, enjoy building systems from scratch, and continuously push myself to become a better engineer every day.
+I value:
+
+- **Consistency:** Making measurable progress through regular practice.
+- **Problem-solving:** Understanding the problem before choosing the solution.
+- **Clarity:** Writing code and documentation that others can understand.
+- **Practical learning:** Turning concepts into working projects.
+- **Continuous improvement:** Learning from mistakes, feedback, and experimentation.
+
+I am building my skills one project, one concept, and one meaningful improvement at a time.
 
 ---
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=120&section=footer"/>
-</p>
+## Let's Connect
+
+I'm interested in connecting with developers, AI enthusiasts, data science practitioners, mentors, and people building practical technology solutions.
+
+<div align="center">
+
+<a href="https://github.com/EkwuemeSpace">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/innocent-ekwueme-41bb44292/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:ekwuemeinnocent31@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://medium.com/@innocentekwueme79">
+  <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### From learning the fundamentals to building intelligent solutions.
+
+**Aspiring AI Engineer | Practical Software Development | Lifelong Learner**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:0D1117&height=100&section=footer"/>
+
+</div>
+
+<!-- End of Profile README -->
