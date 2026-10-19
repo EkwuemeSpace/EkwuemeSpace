@@ -1,26 +1,30 @@
-## Building Today. Engineering Intelligence for Tomorrow.
+<!-- GitHub Profile README | Top Section -->
 
-<p align="center">
-  <strong>Aspiring AI Engineer | Full-Stack Developer in Training | Data Science Practitioner</strong>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:102A43,100:007ACC&height=220&section=header&text=INNOCENT%20EKWUEME&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20AI%20%26%20DATA%20SCIENCE&descAlignY=58&descSize=14&animation=fadeIn" alt="Innocent Ekwueme profile banner"/>
+
+<h2>Building Today. Engineering Intelligence for Tomorrow.</h2>
+
+<p>
+  <strong>Aspiring AI Engineer</strong> · Full-Stack Developer in Training · Data Science Practitioner
 </p>
 
-<p align="center">
-  I build practical projects, develop my software engineering skills, and explore how AI and data can solve real-world problems.
+<p>
+  I build practical projects, strengthen my software engineering skills, and explore how AI and data can solve real-world problems.
 </p>
 
-**Aspiring AI Engineer · Full-Stack Developer in Training · Data Science Practitioner**
-
-I am on a continuous learning journey focused on building useful software, understanding data, and applying artificial intelligence to real-world problems.
-
-<a href="https://github.com/EkwuemeSpace">
-  <img src="https://img.shields.io/badge/GitHub-EkwuemeSpace-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
-<a href="https://learn2earn.ng/">
-  <img src="https://img.shields.io/badge/Learning-Learn2Earn-2563EB?style=for-the-badge" alt="Learn2Earn"/>
-</a>
-<a href="https://dataraflow.org/">
-  <img src="https://img.shields.io/badge/Experience-DataraFlow-0F766E?style=for-the-badge" alt="DataraFlow"/>
-</a>
+<p>
+  <a href="https://github.com/EkwuemeSpace">
+    <img src="https://img.shields.io/badge/GitHub-EkwuemeSpace-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://learn2earn.ng/">
+    <img src="https://img.shields.io/badge/Learning-Learn2Earn-2563EB?style=for-the-badge" alt="Learn2Earn"/>
+  </a>
+  <a href="https://dataraflow.org/">
+    <img src="https://img.shields.io/badge/Experience-DataraFlow-0F766E?style=for-the-badge" alt="DataraFlow"/>
+  </a>
+</p>
 
 </div>
 
