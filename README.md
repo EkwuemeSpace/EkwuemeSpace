@@ -1,4 +1,3 @@
-```html
 <!-- GitHub Profile README | Innocent Ekwueme -->
 
 <div align="center">
@@ -214,4 +213,3 @@ I'm interested in connecting with developers, AI enthusiasts, data science pract
 </div>
 
 <!-- End of Profile README -->
-```
