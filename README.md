@@ -1,3 +1,8 @@
+```html
+<!-- GitHub Profile README | Innocent Ekwueme -->
+
+<div align="center">
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B1020,50:102A43,100:007ACC&amp;height=220&amp;section=header&amp;text=INNOCENT%20EKWUEME&amp;fontSize=38&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=SOFTWARE%20ENGINEERING%20%7C%20AI%20%26%20DATA%20SCIENCE&amp;descAlignY=58&amp;descSize=14&amp;animation=fadeIn" alt="Innocent Ekwueme profile banner"/>
 
 <h2>Building Today. Engineering Intelligence for Tomorrow.</h2>
@@ -12,7 +17,7 @@
 
 <p>
   <a href="https://github.com/EkwuemeSpace">
-    <img src="https://img.shields.io/badge/GitHub-EkwuemeSpace-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-EkwuemeSpace-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://learn2earn.ng/">
     <img src="https://img.shields.io/badge/Learning-Learn2Earn-2563EB?style=for-the-badge" alt="Learn2Earn"/>
@@ -61,12 +66,12 @@ These are the technologies I use, explore, or am developing skills in. My profic
 ### Data Science & AI
 
 <p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&amp;logo=numpy&amp;logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&amp;logo=pandas&amp;logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib"/>
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" alt="Seaborn"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&amp;logo=scikitlearn&amp;logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&amp;logo=jupyter&amp;logoColor=white" alt="Jupyter"/>
 </p>
 
 ### Development Tools & Infrastructure
@@ -106,7 +111,7 @@ I am interested in building practical tools that connect software engineering wi
 <div align="center">
 
 <a href="https://github.com/EkwuemeSpace?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories"/>
+  <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore my repositories"/>
 </a>
 
 </div>
@@ -117,13 +122,13 @@ I am interested in building practical tools that connect software engineering wi
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=EkwuemeSpace&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=EkwuemeSpace&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;rank_icon=github" alt="GitHub statistics"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EkwuemeSpace&layout=compact&theme=github_dark&hide_border=true" alt="Most used programming languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EkwuemeSpace&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true" alt="Most used programming languages"/>
 
-<img width="95%" src="https://streak-stats.demolab.com?user=EkwuemeSpace&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
+<img width="95%" src="https://streak-stats.demolab.com?user=EkwuemeSpace&amp;theme=github-dark-blue&amp;hide_border=true" alt="GitHub contribution streak"/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=EkwuemeSpace&theme=github-compact&hide_border=true" alt="GitHub contribution activity graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=EkwuemeSpace&amp;theme=github-compact&amp;hide_border=true" alt="GitHub contribution activity graph"/>
 
 </div>
 
@@ -182,16 +187,16 @@ I'm interested in connecting with developers, AI enthusiasts, data science pract
 <div align="center">
 
 <a href="https://github.com/EkwuemeSpace">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/innocent-ekwueme-41bb44292/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:ekwuemeinnocent31@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"/>
 </a>
 <a href="https://medium.com/@innocentekwueme79">
-  <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&amp;logo=medium&amp;logoColor=white" alt="Medium"/>
 </a>
 
 </div>
@@ -204,8 +209,9 @@ I'm interested in connecting with developers, AI enthusiasts, data science pract
 
 **Aspiring AI Engineer | Practical Software Development | Lifelong Learner**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:0D1117&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:007ACC,100:0D1117&amp;height=100&amp;section=footer" alt="Footer banner"/>
 
 </div>
 
 <!-- End of Profile README -->
+```
