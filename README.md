@@ -1,10 +1,12 @@
-<!-- GitHub Profile README | Innocent Ekwueme -->
+## Building Today. Engineering Intelligence for Tomorrow.
 
-<div align="center">
+<p align="center">
+  <strong>Aspiring AI Engineer | Full-Stack Developer in Training | Data Science Practitioner</strong>
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:102A43,100:007ACC&height=220&section=header&text=INNOCENT%20EKWUEME&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20AI%20%26%20DATA%20SCIENCE&descAlignY=58&descSize=15&animation=fadeIn"/>
-
-# Building Today. Engineering Intelligence for Tomorrow.
+<p align="center">
+  I build practical projects, develop my software engineering skills, and explore how AI and data can solve real-world problems.
+</p>
 
 **Aspiring AI Engineer · Full-Stack Developer in Training · Data Science Practitioner**
 
