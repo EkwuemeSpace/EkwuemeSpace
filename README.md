@@ -2,8 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B1020,50:102A43,100:007ACC&amp;height=220&amp;section=header&amp;text=INNOCENT%20EKWUEME&amp;fontSize=38&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=SOFTWARE%20ENGINEERING%20%7C%20AI%20%26%20DATA%20SCIENCE&amp;descAlignY=58&amp;descSize=14&amp;animation=fadeIn" alt="Innocent Ekwueme profile banner"/>
-
+<img width="100%" src="https://raw.githubusercontent.com/EkwuemeSpace/EkwuemeSpace/main/github-profile-banner.png" alt="Innocent Ekwueme profile banner"/>
 <h2>Building Today. Engineering Intelligence for Tomorrow.</h2>
 
 <p>
